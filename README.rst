@@ -22,3 +22,6 @@ pytex.vim
 python.sty
     A LaTeX package that allows direct embedding of python scripts in LaTeX
     documents.
+
+makefile
+    Another option for compiling. Uses make and latexmk.
